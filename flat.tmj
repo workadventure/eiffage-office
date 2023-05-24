@@ -1098,12 +1098,12 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"https:\/\/miro.com\/app\/board\/uXjVMKAxHhw=\/?moveToViewport=-2277,-2085,12506,4825&embedId=266845229593"
+                         "value":"https:\/\/app.whiteboard.microsoft.com\/"
                         }, 
                         {
                          "name":"label",
                          "type":"string",
-                         "value":"URL WhiteBoard"
+                         "value":"URL du tableau blanc"
                         }, 
                         {
                          "name":"persist",
