@@ -851,7 +851,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"..\/plaquette.pdf"
+                         "value":"plaquette.pdf"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -923,23 +923,23 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":51,
                  "id":260,
-                 "name":"urlMiro",
+                 "name":"urlWhiteboard",
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openTabTrigger",
+                         "name":"openTab",
+                         "type":"string",
+                         "value":"{{{urlWhiteBoard}}}"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }, 
                         {
-                         "name":"openTabTriggerMessage",
+                         "name":"openWebsiteTriggerMessage",
                          "type":"string",
                          "value":"Pressez espace pour ouvrir le white board"
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"{{{urlWhiteBoard}}}"
                         }],
                  "type":"tilelayer",
                  "visible":true,
