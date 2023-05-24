@@ -1043,6 +1043,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithAudioMuted\": false, \"startWithVideoMuted\": false }"
+                        }, 
+                        {
                          "name":"jitsiInterfaceConfig",
                          "type":"string",
                          "value":"{ \"DEFAULT_BACKGROUND\": \"#12abdb\" }"

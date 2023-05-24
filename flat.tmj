@@ -532,6 +532,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithAudioMuted\": false, \"startWithVideoMuted\": false }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"ConferenceRoom"
